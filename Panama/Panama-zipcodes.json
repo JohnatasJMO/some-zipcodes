@@ -1,0 +1,4666 @@
+[
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Puerto Almirante",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALPU"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Barriada Guaymí",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALBA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Barrio Francés",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALBA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Nance de Riscó",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALNA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Valle de Aguas Arriba",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALVA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Almirante",
+   "Dependent Locality": "Valle de Riscó",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01AL",
+   "Corregimiento codigo": "PM01ALVA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Bocas del Toro",
+   "Dependent Locality": "Bastimentos",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01BO",
+   "Corregimiento codigo": "PM01BOBA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Bocas del Toro",
+   "Dependent Locality": "Bocas del Toro",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01BO",
+   "Corregimiento codigo": "PM01BOBO"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Bocas del Toro",
+   "Dependent Locality": "Cauchero",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01BO",
+   "Corregimiento codigo": "PM01BOCA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Bocas del Toro",
+   "Dependent Locality": "Punta Laurel",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01BO",
+   "Corregimiento codigo": "PM01BOPU"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Bocas del Toro",
+   "Dependent Locality": "Tierra Oscura",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01BO",
+   "Corregimiento codigo": "PM01BOTI"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Changuinola",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGCH"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Cochigro",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGCO"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "El Empalme",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGEL"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Guabito",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGGU"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "La Gloria",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGLA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Las Delicias",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGLA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Las Tablas",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGLA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Barriada 4 de Abril",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGBA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "El Teribe",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGEL"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Finca 30",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGFI"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Finca 60",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGFI"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "Finca 6",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGFI"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Changuinola",
+   "Dependent Locality": "El Silencio",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CG",
+   "Corregimiento codigo": "PM01CGEL"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Bajo Cedro",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHBA"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Chiriquí Grande",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHCH"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Miramar",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHMI"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Punta Peña",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHPU"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Punta Robalo",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHPU"
+ },
+ {
+   "Province": "Bocas del Toro",
+   "District": "Chiriquí Grande",
+   "Dependent Locality": "Rambala",
+   "Provincia Codigo": "PM01",
+   "Distrito Codigo": "PM01CH",
+   "Corregimiento codigo": "PM01CHRA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Santiago de Alanje",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Divalá",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALDI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Canta Gallo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALCA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "El Tejar",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Guarumal",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALGU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Nuevo México",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALNU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Querévalo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALQU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Palo Grande",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALPA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Alanje",
+   "Dependent Locality": "Santo Tomás",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02AL",
+   "Corregimiento codigo": "PM02ALSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Barú",
+   "Dependent Locality": "Baco",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BA",
+   "Corregimiento codigo": "PM02BABA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Barú",
+   "Dependent Locality": "Limones",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BA",
+   "Corregimiento codigo": "PM02BALI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Barú",
+   "Dependent Locality": "Progreso",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BA",
+   "Corregimiento codigo": "PM02BAPR"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Barú",
+   "Dependent Locality": "Puerto Tomás Armuelles",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BA",
+   "Corregimiento codigo": "PM02BAPU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Barú",
+   "Dependent Locality": "Rodolfo Aguilar Delgado",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BA",
+   "Corregimiento codigo": "PM02BARO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Bágala",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQBÁ"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Boquerón",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQBO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Cordillera",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQCO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Guabal",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQGU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Guayabal",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQGU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Paraíso",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQPA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Pedregal",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQPE"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquerón",
+   "Dependent Locality": "Tijeras",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BQ",
+   "Corregimiento codigo": "PM02BQTI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Alto Boquete",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOAL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Bajo Boquete",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOBA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Caldera",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOCA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Jaramillo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOJA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Los Naranjos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOLO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Boquete",
+   "Dependent Locality": "Palmira",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BO",
+   "Corregimiento codigo": "PM02BOPA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Aserrío de Gariché",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUAS"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Bugaba",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUBU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Cerro Punta",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUCE"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "El Bongo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Gómez",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUGÓ"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "La Concepción",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BULA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "La Estrella",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BULA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "San Andrés",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Santa Marta",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Santa Rosa",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Santo Domingo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Sortová",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUSO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Bugaba",
+   "Dependent Locality": "Volcán",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02BU",
+   "Corregimiento codigo": "PM02BUVO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Bijagual",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DABI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Cochea",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DACO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Chiriquí",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DACH"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Guacá",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DAGU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Las Lomas",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DALA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "Pedregal",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DAPE"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "San Carlos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "San José de David",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "San Pablo Nuevo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "David",
+   "Dependent Locality": "San Pablo Viejo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DA",
+   "Corregimiento codigo": "PM02DASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "San Francisco de Dolega",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Dos Ríos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DODO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Los Algarrobos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOLO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Los Anastacios",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOLO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Potrerillos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOPO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Potrerillos Abajo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOPO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Rovira",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DORO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Dolega",
+   "Dependent Locality": "Tinajas",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02DO",
+   "Corregimiento codigo": "PM02DOTI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Gualaca",
+   "Dependent Locality": "Gualaca",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02GU",
+   "Corregimiento codigo": "PM02GUGU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Gualaca",
+   "Dependent Locality": "Hornito",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02GU",
+   "Corregimiento codigo": "PM02GUHO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Gualaca",
+   "Dependent Locality": "Los Angeles",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02GU",
+   "Corregimiento codigo": "PM02GULO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Gualaca",
+   "Dependent Locality": "Paja de Sombrero",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02GU",
+   "Corregimiento codigo": "PM02GUPA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Gualaca",
+   "Dependent Locality": "Rincón",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02GU",
+   "Corregimiento codigo": "PM02GURI"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Remedios",
+   "Dependent Locality": "El Nancito",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RM",
+   "Corregimiento codigo": "PM02RMEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Remedios",
+   "Dependent Locality": "El Porvenir",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RM",
+   "Corregimiento codigo": "PM02RMEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Remedios",
+   "Dependent Locality": "El Puerto",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RM",
+   "Corregimiento codigo": "PM02RMEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Remedios",
+   "Dependent Locality": "Nuestra Señora de los Remedios",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RM",
+   "Corregimiento codigo": "PM02RMNU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Remedios",
+   "Dependent Locality": "Santa Lucía",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RM",
+   "Corregimiento codigo": "PM02RMSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Breñón",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02REBR"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Cañas Gordas",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02RECA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Dominical",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02REDO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Monte Lirio",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02REMO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Plaza de Caisán",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02REPL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Río Sereno",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02RERÍ"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Santa Cruz",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02RESA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Renacimiento",
+   "Dependent Locality": "Santa Clara",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02RE",
+   "Corregimiento codigo": "PM02RESA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Félix",
+   "Dependent Locality": "Las Lajas",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SF",
+   "Corregimiento codigo": "PM02SFLA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Félix",
+   "Dependent Locality": "Lajas Adentro",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SF",
+   "Corregimiento codigo": "PM02SFLA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Félix",
+   "Dependent Locality": "Juay",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SF",
+   "Corregimiento codigo": "PM02SFJU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Félix",
+   "Dependent Locality": "San Félix",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SF",
+   "Corregimiento codigo": "PM02SFSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Félix",
+   "Dependent Locality": "Santa Cruz",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SF",
+   "Corregimiento codigo": "PM02SFSA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Lorenzo",
+   "Dependent Locality": "Boca Chica",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SA",
+   "Corregimiento codigo": "PM02SABO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Lorenzo",
+   "Dependent Locality": "Boca del Monte",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SA",
+   "Corregimiento codigo": "PM02SABO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Lorenzo",
+   "Dependent Locality": "Horconcitos",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SA",
+   "Corregimiento codigo": "PM02SAHO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Lorenzo",
+   "Dependent Locality": "San Juan",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SA",
+   "Corregimiento codigo": "PM02SASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "San Lorenzo",
+   "Dependent Locality": "San Lorenzo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02SA",
+   "Corregimiento codigo": "PM02SASA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Bella Vista",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOBE"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Cerro Viejo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOCE"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "El Cristo",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOEL"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Justo Fidel Palacios",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOJU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Lajas de Tolé",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOLA"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Potrero de Caña",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOPO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Quebrada de Piedra",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOQU"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Tolé",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOTO"
+ },
+ {
+   "Province": "Chiriquí",
+   "District": "Tolé",
+   "Dependent Locality": "Veladero",
+   "Provincia Codigo": "PM02",
+   "Distrito Codigo": "PM02TO",
+   "Corregimiento codigo": "PM02TOVE"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Aguadulce",
+   "Dependent Locality": "San Juan Bautista de Aguadulce",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AG",
+   "Corregimiento codigo": "PM03AGSA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Aguadulce",
+   "Dependent Locality": "Barrios Unidos",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AG",
+   "Corregimiento codigo": "PM03AGBA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Aguadulce",
+   "Dependent Locality": "El Cristo",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AG",
+   "Corregimiento codigo": "PM03AGEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Aguadulce",
+   "Dependent Locality": "El Roble",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AG",
+   "Corregimiento codigo": "PM03AGEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Aguadulce",
+   "Dependent Locality": "Pocrí",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AG",
+   "Corregimiento codigo": "PM03AGPO"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Antón",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANAN"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Caballero",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANCA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Cabuya",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANCA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "El Chirú",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "El Retiro",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "El Valle",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Juan Díaz",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANJU"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Río Hato",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANRÍ"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "San Juan de Dios",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANSA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Antón",
+   "Dependent Locality": "Santa Rita",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03AN",
+   "Corregimiento codigo": "PM03ANSA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "El Harino",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LAEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "El Potrero",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LAEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "La Pintada",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LALA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "Las Lomas",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LALA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "Llano Grande",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LALL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "Piedras Gordas",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LAPI"
+ },
+ {
+   "Province": "Coclé",
+   "District": "La Pintada",
+   "Dependent Locality": "Llano Norte",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03LA",
+   "Corregimiento codigo": "PM03LALL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "Capellanía",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NACA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "El Caño",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NAEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "Guzmán",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NAGU"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "Las Huacas",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NALA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "Natá",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NANA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Natá",
+   "Dependent Locality": "Toza",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03NA",
+   "Corregimiento codigo": "PM03NATO"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Olá",
+   "Dependent Locality": "El Copé",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03OL",
+   "Corregimiento codigo": "PM03OLEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Olá",
+   "Dependent Locality": "El Palmar",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03OL",
+   "Corregimiento codigo": "PM03OLEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Olá",
+   "Dependent Locality": "El Picacho",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03OL",
+   "Corregimiento codigo": "PM03OLEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Olá",
+   "Dependent Locality": "La Pava",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03OL",
+   "Corregimiento codigo": "PM03OLLA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Olá",
+   "Dependent Locality": "Olá",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03OL",
+   "Corregimiento codigo": "PM03OLOL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Cañaveral",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PECA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Coclé",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PECO"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Chiguirí Arriba",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PECH"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "El Coco",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PEEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "El Valle de San Miguel",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PEEL"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Pajonal",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PEPA"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Penonomé",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PEPE"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Río Grande",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PERÍ"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Río Indio",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PERÍ"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Toabré",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PETO"
+ },
+ {
+   "Province": "Coclé",
+   "District": "Penonomé",
+   "Dependent Locality": "Tulú",
+   "Provincia Codigo": "PM03",
+   "Distrito Codigo": "PM03PE",
+   "Corregimiento codigo": "PM03PETU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Barrio Norte",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COBA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Barrio Sur",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COBA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Buena Vista",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COBU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Cativá",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COCA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Ciricito",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COCI"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Cristóbal",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COCR"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Escobal",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COES"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Limón",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COLI"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Nueva Providencia",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04CONU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Puerto Pilón",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COPU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Sabanitas",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Salamanca",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "San Juan",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Colón",
+   "Dependent Locality": "Santa Rosa",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CO",
+   "Corregimiento codigo": "PM04COSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "Achiote",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHAC"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "El Guabo",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHEL"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "La Encantada",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHLA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "Nuevo Chagres",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHNU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "Palmas Bellas",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHPA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "Piña",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHPI"
+ },
+ {
+   "Province": "Colón",
+   "District": "Chagres",
+   "Dependent Locality": "Salud",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04CH",
+   "Corregimiento codigo": "PM04CHSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "Coclé del Norte",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DOCO"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "El Guásimo",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DOEL"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "Gobea",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DOGO"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "Miguel de la Borda",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DOMI"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "Río Indio",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DORÍ"
+ },
+ {
+   "Province": "Colón",
+   "District": "Donoso",
+   "Dependent Locality": "San José del General",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04DO",
+   "Corregimiento codigo": "PM04DOSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Portobelo",
+   "Dependent Locality": "Cacique",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04PO",
+   "Corregimiento codigo": "PM04POCA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Portobelo",
+   "Dependent Locality": "Garrote",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04PO",
+   "Corregimiento codigo": "PM04POGA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Portobelo",
+   "Dependent Locality": "Isla Grande",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04PO",
+   "Corregimiento codigo": "PM04POIS"
+ },
+ {
+   "Province": "Colón",
+   "District": "Portobelo",
+   "Dependent Locality": "María Chiquita",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04PO",
+   "Corregimiento codigo": "PM04POMA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Portobelo",
+   "Dependent Locality": "San Felipe de Portobelo",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04PO",
+   "Corregimiento codigo": "PM04POSA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Cuango",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SACU"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Miramar",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SAMI"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Nombre de Dios",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SANO"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Palenque",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SAPA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Palmira",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SAPA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Playa Chiquita",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SAPL"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Santa Isabel",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SASA"
+ },
+ {
+   "Province": "Colón",
+   "District": "Santa Isabel",
+   "Dependent Locality": "Viento Frío",
+   "Provincia Codigo": "PM04",
+   "Distrito Codigo": "PM04SA",
+   "Corregimiento codigo": "PM04SAVI"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Agua Fría",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHAG"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Camogantí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHCA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Chepigana",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHCH"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Cucunatí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHCU"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Garachiné",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHGA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Jaqué",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHJA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "La Palma",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHLA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Puerto Piña",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHPU"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Río Congo",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHRÍ"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Río Congo Arriba",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHRÍ"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Río Iglesias",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHRÍ"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Sambú",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHSA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Setegantí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHSE"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Santa Fe",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHSA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Taimatí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHTA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Chepigana",
+   "Dependent Locality": "Tucutí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05CH",
+   "Corregimiento codigo": "PM05CHTU"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Boca de Cupe",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIBO"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "El Real de Santa María",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIEL"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Metetí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIME"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Paya",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIPA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Pinogana",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIPI"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Púcuro",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIPÚ"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Yape",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIYA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Yaviza",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIYA"
+ },
+ {
+   "Province": "Darién",
+   "District": "Pinogana",
+   "Dependent Locality": "Wargandí",
+   "Provincia Codigo": "PM05",
+   "Distrito Codigo": "PM05PI",
+   "Corregimiento codigo": "PM05PIWA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Chitré",
+   "Dependent Locality": "Chitré",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06CH",
+   "Corregimiento codigo": "PM06CHCH"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Chitré",
+   "Dependent Locality": "La Arena",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06CH",
+   "Corregimiento codigo": "PM06CHLA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Chitré",
+   "Dependent Locality": "Llano Bonito",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06CH",
+   "Corregimiento codigo": "PM06CHLL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Chitré",
+   "Dependent Locality": "San Juan Bautista.",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06CH",
+   "Corregimiento codigo": "PM06CHSA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Chitré",
+   "Dependent Locality": "San Miguel de Monagrillo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06CH",
+   "Corregimiento codigo": "PM06CHSA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Chepo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LACH"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Chumical",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LACH"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "El Toro",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LAEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Las Minas",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LALA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Leones",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LALE"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Quebrada del Rosario",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LAQU"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Las Minas",
+   "Dependent Locality": "Quebrada El Ciprián",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LA",
+   "Corregimiento codigo": "PM06LAQU"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "El Capurí",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "El Calabacito",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "El Cedro",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "La Arena",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "La Pitaloza",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "Las Llanas",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "Los Cerritos",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "Los Cerros de Paja",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Los Pozos",
+   "Dependent Locality": "Los Pozos",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06LO",
+   "Corregimiento codigo": "PM06LOLO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Cerro Largo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCCE"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "El Tijera",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Entradero del Castillo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCEN"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Los Llanos",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCLO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Llano Grande",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCLL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Menchaca",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCME"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "Peñas Chatas",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCPE"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Ocú",
+   "Dependent Locality": "San Sebastián de Ocú",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06OC",
+   "Corregimiento codigo": "PM06OCSA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Cabuya",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PACA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Los Castillos",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PALO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Llano de la Cruz",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PALL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "París",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PAPA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Parita",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PAPA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Portobelillo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PAPO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Parita",
+   "Dependent Locality": "Potuga",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PA",
+   "Corregimiento codigo": "PM06PAPO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "El Barrero",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PEEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "El Pedregoso",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PEEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "El Ciruelo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PEEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "El Pájaro",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PEEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "Las Cabras",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PELA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "Pesé",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PEPE"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "Rincón Hondo",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PERI"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Pesé",
+   "Dependent Locality": "Sabanagrande",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06PE",
+   "Corregimiento codigo": "PM06PESA"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Santa María",
+   "Dependent Locality": "Chupampa",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06SA",
+   "Corregimiento codigo": "PM06SACH"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Santa María",
+   "Dependent Locality": "El Rincón",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06SA",
+   "Corregimiento codigo": "PM06SAEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Santa María",
+   "Dependent Locality": "El Limón",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06SA",
+   "Corregimiento codigo": "PM06SAEL"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Santa María",
+   "Dependent Locality": "Los Canelos",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06SA",
+   "Corregimiento codigo": "PM06SALO"
+ },
+ {
+   "Province": "Herrera",
+   "District": "Santa María",
+   "Dependent Locality": "Santa María",
+   "Provincia Codigo": "PM06",
+   "Distrito Codigo": "PM06SA",
+   "Corregimiento codigo": "PM06SASA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "El Espinal",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "El Hato",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "El Macano",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "Guararé",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUGU"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "Guararé Arriba",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUGU"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "La Enea",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GULA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "La Pasera",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GULA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "Las Trancas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GULA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "Llano Abajo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GULL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Guararé",
+   "Dependent Locality": "Perales",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07GU",
+   "Corregimiento codigo": "PM07GUPE"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Bajo Corral",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LABA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Bayano",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LABA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Carate",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Cocal",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Manantial",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Muñoz",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Pedregoso",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "El Sesteadero",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "La Laja",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "La Miel",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "La Palma",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "La Tiza",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Las Palmitas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Las Tablas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Las Tablas Abajo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Nuario",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LANU"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Palmira",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAPA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Peña Blanca",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAPE"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Río Hondo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LARÍ"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "San José",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LASA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "San Miguel",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LASA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Santo Domingo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LASA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Valle Rico",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAVA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Las Tablas",
+   "Dependent Locality": "Vallerriquito",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LA",
+   "Corregimiento codigo": "PM07LAVA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "El Ejido",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "El Guásimo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "La Colorada",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "La Espigadilla",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "La Villa de Los Santos",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Las Cruces",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Las Guabas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Los Ángeles",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Los Olivos",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Llano Largo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOLL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Sabanagrande",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOSA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Santa Ana",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOSA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Tres Quebradas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOTR"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Villa Lourdes",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOVI"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Los Santos",
+   "Dependent Locality": "Agua Buena",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07LO",
+   "Corregimiento codigo": "PM07LOAG"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Bahía Honda",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MABA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Bajos de Güera",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MABA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Corozal",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MACO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Chupá",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MACH"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "El Cedro",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MAEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Espino Amarillo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MAES"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "La Mesa",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Las Palmas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MALA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Llano de Piedras",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MALL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Macaracas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MAMA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Macaracas",
+   "Dependent Locality": "Mogollón",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07MA",
+   "Corregimiento codigo": "PM07MAMO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pedasí",
+   "Dependent Locality": "Los Asientos",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PE",
+   "Corregimiento codigo": "PM07PELO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pedasí",
+   "Dependent Locality": "Mariabé",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PE",
+   "Corregimiento codigo": "PM07PEMA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pedasí",
+   "Dependent Locality": "Oria Arriba",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PE",
+   "Corregimiento codigo": "PM07PEOR"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pedasí",
+   "Dependent Locality": "Pedasí",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PE",
+   "Corregimiento codigo": "PM07PEPE"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pedasí",
+   "Dependent Locality": "Purio",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PE",
+   "Corregimiento codigo": "PM07PEPU"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pocrí",
+   "Dependent Locality": "El Cañafístulo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PO",
+   "Corregimiento codigo": "PM07POEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pocrí",
+   "Dependent Locality": "Lajamina",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PO",
+   "Corregimiento codigo": "PM07POLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pocrí",
+   "Dependent Locality": "Paraíso",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PO",
+   "Corregimiento codigo": "PM07POPA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pocrí",
+   "Dependent Locality": "Paritilla",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PO",
+   "Corregimiento codigo": "PM07POPA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Pocrí",
+   "Dependent Locality": "Pocrí",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07PO",
+   "Corregimiento codigo": "PM07POPO"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Altos de Güera",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOAL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Cambutal",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOCA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Cañas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOCA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "El Bebedero",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "El Cacao",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "El Cortezo",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOEL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Flores",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOFL"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Guánico",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOGU"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Isla de Cañas",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOIS"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "La Tronosa",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOLA"
+ },
+ {
+   "Province": "Los Santos",
+   "District": "Tonosí",
+   "Dependent Locality": "Tonosí",
+   "Provincia Codigo": "PM07",
+   "Distrito Codigo": "PM07TO",
+   "Corregimiento codigo": "PM07TOTO"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "La Ensenada",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BALA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "La Esmeralda",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BALA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "La Guinea",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BALA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "Pedro González",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BAPE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "Saboga",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Balboa",
+   "Dependent Locality": "San Miguel",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08BA",
+   "Corregimiento codigo": "PM08BASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Cañita",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHCA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Chepillo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHCH"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "El Llano",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHEL"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Las Margaritas",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHLA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Madugandí",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHMA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "San Cristóbal de Chepo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHSA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Santa Cruz de Chinina",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHSA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chepo",
+   "Dependent Locality": "Tortí",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHTO"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chimán",
+   "Dependent Locality": "Brujas",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHBR"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chimán",
+   "Dependent Locality": "Chimán",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHCH"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chimán",
+   "Dependent Locality": "Gonzalo Vásquez",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHGO"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chimán",
+   "Dependent Locality": "Pásiga",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHPÁ"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Chimán",
+   "Dependent Locality": "Unión Santeña",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08CH",
+   "Corregimiento codigo": "PM08CHUN"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "24 de Diciembre",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PA24"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Alcalde Díaz",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAAL"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Ancón",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAAN"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Betania",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PABE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Bella Vista",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PABE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Calidonia",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PACA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Caimitillo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PACA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Chilibre",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PACH"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Curundú",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PACU"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "El Chorrillo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAEL"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Ernesto Córdoba Campos",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAER"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Juan Díaz",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAJU"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Las Cumbres",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PALA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Las Mañanitas",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PALA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Pacora",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAPA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Parque Lefevre",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAPA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Pedregal",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAPE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Pueblo Nuevo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PAPU"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Río Abajo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PARÍ"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "San Felipe",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "San Francisco",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "San Martín",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Santa Ana",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PASA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Panamá",
+   "Dependent Locality": "Tocumen",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08PA",
+   "Corregimiento codigo": "PM08PATO"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Amelia Denis de Icaza",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAAM"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Arnulfo Arias",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAAR"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Belisario Frías",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SABE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Belisario Porras",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SABE"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "José Domingo Espinar",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAJO"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Mateo Iturralde",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAMA"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Omar Torrijos",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAOM"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Rufina Alfaro",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SARU"
+ },
+ {
+   "Province": "Panamá",
+   "District": "San Miguelito",
+   "Dependent Locality": "Victoriano Lorenzo",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08SA",
+   "Corregimiento codigo": "PM08SAVI"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Taboga",
+   "Dependent Locality": "Otoque Occidente",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08TA",
+   "Corregimiento codigo": "PM08TAOT"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Taboga",
+   "Dependent Locality": "Otoque Oriente",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08TA",
+   "Corregimiento codigo": "PM08TAOT"
+ },
+ {
+   "Province": "Panamá",
+   "District": "Taboga",
+   "Dependent Locality": "Taboga",
+   "Provincia Codigo": "PM08",
+   "Distrito Codigo": "PM08TA",
+   "Corregimiento codigo": "PM08TATA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Arraiján",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARAR"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Burunga",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARBU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Cerro Silvestre",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARCE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Juan Demóstenes Arosemena",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARJU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Nuevo Emperador",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARNU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Santa Clara",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARSA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Veracruz",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARVE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Arraiján",
+   "Dependent Locality": "Vista Alegre",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13AR",
+   "Corregimiento codigo": "PM13ARVI"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Caimito",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Campana",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Capira",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Cermeño",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Cirí de Los Sotos",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACI"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Cirí Grande",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CACI"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "El Cacao",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CAEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "La Trinidad",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Las Ollas Arriba",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Lídice",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CALÍ"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Villa Carmen",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CAVI"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Villa Rosario",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CAVI"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Capira",
+   "Dependent Locality": "Santa Rosa",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CA",
+   "Corregimiento codigo": "PM13CASA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Bejuco",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHBE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Buenos Aires",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHBU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Cabuya",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHCA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Chame",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHCH"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Chicá",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHCH"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "El Líbano",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Las Lajas",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHLA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Nueva Gorgona",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHNU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Punta Chame",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHPU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Sajalices",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHSA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "Chame",
+   "Dependent Locality": "Sorá",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13CH",
+   "Corregimiento codigo": "PM13CHSO"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Amador",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAAM"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Arosemena",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAAR"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Barrio Balboa",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LABA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Barrio Colón",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LABA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "El Arado",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "El Coco",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Feuillet",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAFE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Guadalupe",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAGU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Herrera",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAHE"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Hurtado",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAHU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Iturralde",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAIT"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "La Represa",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Los Díaz",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LALO"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Mendoza",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAME"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Obaldía",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAOB"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Playa Leona",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAPL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Puerto Caimito",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LAPU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "La Chorrera",
+   "Dependent Locality": "Santa Rita",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13LA",
+   "Corregimiento codigo": "PM13LASA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "El Espino",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SAEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "El Higo",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SAEL"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "Guayabito",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SAGU"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "La Ermita",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "La Laguna",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "Las Uvas",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SALA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "Los Llanitos",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SALO"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "San Carlos Borromeo",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SASA"
+ },
+ {
+   "Province": "Panamá Oeste",
+   "District": "San Carlos",
+   "Dependent Locality": "San José",
+   "Provincia Codigo": "PM13",
+   "Distrito Codigo": "PM13SA",
+   "Corregimiento codigo": "PM13SASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Atalaya",
+   "Dependent Locality": "Jesús Nazareno de Atalaya",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10AT",
+   "Corregimiento codigo": "PM10ATJE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Atalaya",
+   "Dependent Locality": "El Barrito",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10AT",
+   "Corregimiento codigo": "PM10ATEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Atalaya",
+   "Dependent Locality": "La Carrillo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10AT",
+   "Corregimiento codigo": "PM10ATLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Atalaya",
+   "Dependent Locality": "La Montañuela",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10AT",
+   "Corregimiento codigo": "PM10ATLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Atalaya",
+   "Dependent Locality": "San Antonio",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10AT",
+   "Corregimiento codigo": "PM10ATSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "Barnizal",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CABA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "Calobre",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CACA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "Chitra",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CACH"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "El Cocla",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "El Potrero",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "La Laguna",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "La Raya de Calobre",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "La Tetilla",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "La Yeguada",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "Las Guías",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "Monjarás",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CAMO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Calobre",
+   "Dependent Locality": "San José",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "San Francisco Javier de Cañazas",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "Cerro de Plata",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CACE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "El Aromillo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "El Picador",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "Las Cruces",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "Los Valles",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CALO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "San José",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Cañazas",
+   "Dependent Locality": "San Marcelo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10CA",
+   "Corregimiento codigo": "PM10CASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "Bisvalles",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMBI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "Boró",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMBO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "El Higo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "La Mesa",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "Los Milagros",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMLO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "Llano Grande",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMLL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "La Mesa",
+   "Dependent Locality": "San Bartolo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LM",
+   "Corregimiento codigo": "PM10LMSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Cerro de Casa",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LACE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Corozal",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LACO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "El María",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "El Prado",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "El Rincón",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Las Palmas",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Lolá",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LALO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Manuel Encarnación Amador Terreros",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAMA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Pixvae",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAPI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Puerto Vidal",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAPU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "San Martín de Porres",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Viguí",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAVI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Las Palmas",
+   "Dependent Locality": "Zapotillo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10LA",
+   "Corregimiento codigo": "PM10LAZA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Mariato",
+   "Dependent Locality": "Arenas",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MA",
+   "Corregimiento codigo": "PM10MAAR"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Mariato",
+   "Dependent Locality": "El Cacao",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MA",
+   "Corregimiento codigo": "PM10MAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Mariato",
+   "Dependent Locality": "Mariato",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MA",
+   "Corregimiento codigo": "PM10MAMA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Mariato",
+   "Dependent Locality": "Quebro",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MA",
+   "Corregimiento codigo": "PM10MAQU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Mariato",
+   "Dependent Locality": "Tebario",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MA",
+   "Corregimiento codigo": "PM10MATE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Cébaco",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOCÉ"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Costa Hermosa",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOCO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Gobernadora",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOGO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "La Garceana",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Leones",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOLE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Montijo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOMO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Pilón",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOPI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Montijo",
+   "Dependent Locality": "Unión del Norte",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10MO",
+   "Corregimiento codigo": "PM10MOUN"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "Catorce de Noviembre",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍCA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "La Ermita de Río de Jesús",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "Las Huacas",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "Los Castillos",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍLO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "Nuevo San Juan",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍNU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Río de Jesús",
+   "Dependent Locality": "Utira",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10RÍ",
+   "Corregimiento codigo": "PM10RÍUT"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "Corral Falso",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMCO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "Los Hatillos",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMLO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "Remance",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMRE"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "San Francisco de la Montaña",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "San Juan",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "San Francisco",
+   "Dependent Locality": "San José",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SM",
+   "Corregimiento codigo": "PM10SMSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "Calovébora",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNCA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "El Alto",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "El Cuay",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "El Pantano",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "Gatuncito",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNGA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "Río Luis",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNRÍ"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "Rubén Cantú",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNRU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santa Fe",
+   "Dependent Locality": "Santa Fe",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SN",
+   "Corregimiento codigo": "PM10SNSA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Canto del Llano",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SACA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Carlos Santana Ávila",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SACA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Edwin Fábrega",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SAED"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "El Llanito",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SAEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "La Colorada",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "La Peña",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "La Raya de Santa María",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "La Soledad",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SALA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Los Algarrobos",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SALO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Ponuga",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SAPO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "San Martín de Porres",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "San Pedro del Espino",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Santiago Apóstol",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SASA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Rincón Largo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SARI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Santiago",
+   "Dependent Locality": "Urracá",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SA",
+   "Corregimiento codigo": "PM10SAUR"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Bahía Honda",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOBA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Calidonia",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOCA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Cativé",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOCA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "El Marañón",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOEL"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Guarumal",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOGU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Hicaco",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOHI"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "La Soledad",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOLA"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Quebrada de Oro",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOQU"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Río Grande",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SORÍ"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Rodeo Viejo",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SORO"
+ },
+ {
+   "Province": "Veraguas",
+   "District": "Soná",
+   "Dependent Locality": "Soná",
+   "Provincia Codigo": "PM10",
+   "Distrito Codigo": "PM10SO",
+   "Corregimiento codigo": "PM10SOSO"
+ }
+]
